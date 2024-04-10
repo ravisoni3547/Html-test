@@ -1,0 +1,13 @@
+div{
+    color: red;
+    height: 350px;
+    width: 350px;
+    background-color: yellow;
+    border: 10px solid aqua ;
+    border-radius: 12px;
+    background-image: url(./image.jpg);
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+    zoom: 200%;
+}
