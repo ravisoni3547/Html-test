@@ -1,13 +1,47 @@
-div{
-    color: red;
-    height: 350px;
-    width: 350px;
+body{
+    font-style: oblique;
+}
+#heading{
+text-align: center;
+}
+#search{
+    text-align: center;
+    color: yellow;
+}
+#text{
+    text-align: center;
+    
+}
+input[type="text"] {
+    background-color: red;
+  }
+  
+  input[type="text"]:focus {
     background-color: yellow;
-    border: 10px solid aqua ;
-    border-radius: 12px;
-    background-image: url(./image.jpg);
-    background-size: contain;
-    background-position: right;
-    background-repeat: no-repeat;
-    zoom: 200%;
+  }
+  
+  .fa-solid:hover {
+    background-color: yellow;
+  }
+  
+  .fa-solid {
+    color: black;
+  } 
+#servise{
+    text-align: center;
+}
+#flexible{
+    text-align: center;
+  
+}
+#website{
+  text-align: center;
+}
+.img{
+  height: 100px;
+  
+}
+a{
+  text-decoration: none;
+  
 }
