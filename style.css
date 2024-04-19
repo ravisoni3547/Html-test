@@ -1,47 +1,50 @@
-body{
-    font-style: oblique;
+.background{
+  width: 400px;
+  height: 600px;
+  position: relative;
+background-image: url(./photo-1706497982529-33031bed5282.avif);
+ background-size: cover;
+display: inline-block;
+
 }
-#heading{
-text-align: center;
+.text{
+  width: 100%;
+  height: 100%;
+  color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-#search{
-    text-align: center;
-    color: yellow;
+.background2{
+  background-image: url(./taro-ohtani-Taxws9hqg18-unsplash\ \(1\).jpg);
+  width: 400px;
+  height: 600px;
+  background-size: cover;
+  display: inline-block;
+
 }
-#text{
-    text-align: center;
-    
+.input{
+  width: 100%;
+  height: 100%;
+  color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
-input[type="text"] {
-    background-color: red;
-  }
-  
-  input[type="text"]:focus {
-    background-color: yellow;
-  }
-  
-  .fa-solid:hover {
-    background-color: yellow;
-  }
-  
-  .fa-solid {
-    color: black;
-  } 
-#servise{
-    text-align: center;
+.background3{
+  background-image: url(./premium_photo-1706800283416-386564888732.avif);
+  width: 400px;
+  height: 600px;
+  background-size: cover;
+  display: inline-block;
 }
-#flexible{
-    text-align: center;
-  
-}
-#website{
-  text-align: center;
-}
-.img{
-  height: 100px;
-  
-}
-a{
-  text-decoration: none;
-  
+.svg{
+  width: 100%;
+  height: 100%;
+  color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
